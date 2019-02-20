@@ -13,7 +13,6 @@ This assignment contains 4 problems. Each problem is in a separate folder and ha
 - [Problem 3 - Ocean Levels](https://github.com/belgort-clark/ctec-121-problem-set-12/tree/master/problem03) (worth 25 points)
 - [Problem 4 - Draw That Pattern](https://github.com/belgort-clark/ctec-121-problem-set-12/tree/master/problem04) (worth 25 points)
 
-
 ## Instructions
 
 - **Clone** this repository to your computer.
