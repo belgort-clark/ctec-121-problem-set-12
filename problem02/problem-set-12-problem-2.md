@@ -2,7 +2,7 @@
 
 ## Tuition is Going Up
 
-At Elgorte college, the tuition for a full time student is $7,250 per semester.
+At Elgorte college, the tuition for a full time student is $7,250 per academic year.
 
 It has been announced by President Elgorte that tuition will be going up 3% each year for the next 10 years.
 

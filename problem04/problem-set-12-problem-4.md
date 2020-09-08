@@ -2,7 +2,7 @@
 
 ## Draw this Pattern
 
-Write a Python program that **uses nested loops** to draw this pattern:
+Write a Python program that **uses nested for loops** to draw this pattern:
 
 ```text
 *******

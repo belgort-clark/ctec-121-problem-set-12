@@ -21,5 +21,5 @@ This assignment contains 4 problems. Each problem is in a separate folder and ha
 - Once you have completed each program, be sure to **test** it by running it.
 - Make sure that you are getting the **expected results**.
 - **Stage**, **commit** and **push** your work back to **GitHub**.
-- If you have any questions, please ask them in the **#questions** channel on **Slack**. 
+- If you have any questions, please ask them in the **#questions** channel on **Slack**.
 - I'm happy to assist.

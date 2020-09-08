@@ -2,9 +2,9 @@
 
 ## Sum of Numbers
 
-Develop a Python program using a **while** loop that asks a person to enter a series of positive numbers. 
+Develop a Python program using a **while** loop that asks a person to enter a series of positive numbers.
 
-The user should enter a negative number to signal the end of the series (the sentinal). 
+The user should enter a negative number to signal the end of the series (the sentinal).
 
 After all of the positive numbers have been entered, your program should display their sum.
 
